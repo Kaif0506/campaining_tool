@@ -19,7 +19,7 @@
                         secondary: '#000000',
                         btn: '#242424',
                         darkBg: '#121212',
-                        lightBg: '#ffffff'   // light mode bg
+                        lightBg: '#ffffff' // light mode bg
                     },
                     fontFamily: {
                         sans: ["Inter", "sans-serif"],
@@ -35,9 +35,9 @@
         rel="stylesheet">
 </head>
 
-<body class="bg-lightBg text-black dark:bg-darkBg dark:text-white transition-colors duration-300 ">
+<body class="bg-lightBg text-black dark:bg-darkBg dark:text-white transition-colors duration-300  ">
+    <h2 class="text-4xl font-bold mb-4">arpan</h2>
 
-    
 
 
 
