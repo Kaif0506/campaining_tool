@@ -1,0 +1,5 @@
+<div class="p-4">
+        <button onclick="toggleTheme()" class="px-4 py-2 bg-primary text-white rounded ">
+            Toggle Theme
+        </button>
+    </div>
