@@ -37,7 +37,8 @@
 
 <body class="bg-lightBg text-black dark:bg-darkBg dark:text-white transition-colors duration-300 ">
 
-    
+    <h1 class="bg-primary text-">Pallab mondal</h1>
+    <p class='bg-[#521487]'> sdhsdfhjfgh</p>
 
 
 
