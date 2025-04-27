@@ -1,0 +1,11 @@
+.break-inside-avoid {
+    break-inside: avoid;
+  }
+  .scrollbar-hide {
+    background: red;
+    -ms-overflow-style: none !important;  /* IE and Edge */
+    scrollbar-width: none !important;     /* Firefox */
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none !important; /* Chrome, Safari, Opera */
+  }
